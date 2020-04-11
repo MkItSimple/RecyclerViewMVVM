@@ -1,4 +1,4 @@
-package com.example.recyclerviewmvvm
+package com.example.recyclerviewmvvm.data.models
 
 data class Movie(
     val id: Int,
